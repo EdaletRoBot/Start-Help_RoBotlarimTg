@@ -1,3 +1,13 @@
+# Bu repo edalet_22 tərəfindən yazılıb
+# Öz adına çıxaran peysərdi
+# Bu yazıları silmədən işlədin
+
+# t.me/RoBotlarimTg | YouTube: RoBotlarimTg | t.me/EdaletSup
+# t.me/aykhan_s | t.me/edalet_22
+# GitHub: EdaletRoBot
+
+
+
 from telethon import events
 from telethon import TelegramClient
 from time import time
