@@ -1,4 +1,4 @@
-# Start və Help kommandası var
+# Bəzi sadə kommandalar var
 
 
 
