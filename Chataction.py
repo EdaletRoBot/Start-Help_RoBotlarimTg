@@ -21,7 +21,7 @@ bot_token = "**********************************"
 edalet = TelegramClient('edalet', API_ID, API_HASH).start(bot_token=bot_token)
 
 
-
+#@edalet_22 terefindən @RoBotlarimTg üçün yazilib silmədən istifadə edin
 @edalet.on(events.ChatAction)
 async def handler(event):
     if event.user_joined:
